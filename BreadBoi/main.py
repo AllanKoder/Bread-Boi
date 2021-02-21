@@ -208,4 +208,4 @@ print(grid)
 print(TotalDistance)
 
 
-client.run("ODEyODQ2MTY5NDk4NzE0MTMy.YDGr_A.kQ6Y2rMqw460zPRSDmt_-M0vzEc")
+client.run("Discord Token")
